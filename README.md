@@ -77,38 +77,20 @@ __Exit__ :
 - From this option you can exit from infect tool 
 
 ## ?? ***Screenshot*** :
-<img src="https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg" width="80%"></img>
+<img src="https://4.bp.blogspot.com/-0Lt8CoBKSEM/XqnYaPNkhAI/AAAAAAAAAow/BefOZotTwP8FvLPHwHn-oFMznmZnziB3gCK4BGAYYCw/s1600/20200429_015654.png" width="80%"></img>
 
 ## ?? ***Full video tutorial***:
-[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
 ## ?? ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://m.youtube.com/channel/UCxnPqvPfl9DQQ6M2RYHdNTw#menu
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+https://guccifer3.blogspot.com/
 
-## ?? ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
 
-### Telegram channel:
-https://t.me/noobhack
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
-
-### Instagram: 
-https://www.instagram.com/noobhackers352
-
-### Pinterest:
-https://in.pinterest.com/noobhackers
-
-### My GitHub ID link:
-https://www.github.com/noob-hackers
 
 ### ?? Warning
 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***This tool is only for educational puhrpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
