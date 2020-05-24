@@ -36,8 +36,8 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn Guccifer 3.0◀$rset"
+echo -e "$red                 ⫸$ylo https://guccifer3.blogspot.com/ ⫷$rset"
 echo 
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
